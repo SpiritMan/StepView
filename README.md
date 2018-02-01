@@ -1,4 +1,4 @@
 # StepView
 customize stepview
 
-![image](./screenshot.png style="zoom:50%")
+![image](./screenshot.png width = "200")
